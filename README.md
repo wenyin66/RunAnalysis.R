@@ -5,4 +5,4 @@ Code book:
 The first variable: Activity_ID 1-6, corresponds to Activity_Label
 the second variable: Activity_Label, describes six activities measured
 the third variable: Subject, indicates the subject being tested or trained
-the other variables: features measured by the wearable computing device
+the other variables: The average of the features measured by the wearable computing device, taken by each Activity_ID and Subject. 
